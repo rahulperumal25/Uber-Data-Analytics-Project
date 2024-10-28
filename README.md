@@ -6,7 +6,7 @@
 
 ## Technology Used
 Programming Language - Python
-Google Cloud Platform
+Google Cloud Platform SQL
 
 Google Storage
 Compute Instance
