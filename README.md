@@ -21,7 +21,7 @@ More info about dataset can be found here:
 
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+Data Dictionary - https://drive.google.com/file/d/1OYlh0BCoN4i3dUtJEvZ2_ArzzJkdq1YB/view?usp=sharing
 
 ## Dashboard link
 https://lookerstudio.google.com/reporting/f6d83de6-42d6-471f-a7a9-384ab025ec25
